@@ -67,4 +67,4 @@ This framework follows:
 
 ## ⚙️ Installation
 
-Clone repository:
+Clone repository: https://github.com/luanleb09/demo_blaze
